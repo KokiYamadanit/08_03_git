@@ -1,6 +1,6 @@
 # gitのサンプル
 
-起動
+起動!
 
 ```bash
 docker-compose build
